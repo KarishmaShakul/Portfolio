@@ -35,32 +35,6 @@ A full stack developer portfolio built with the MERN stack (MongoDB, Express, Re
 - Smooth scroll + scroll-triggered animations
 - Hamburger menu on mobile
 
-## 📁 Project Structure
-
-mern-portfolio/
-├── client/                 # React frontend
-│   ├── src/
-│   │   ├── components/
-│   │   │   ├── Navbar.jsx
-│   │   │   └── sections/
-│   │   │       ├── Hero.jsx
-│   │   │       ├── About.jsx
-│   │   │       ├── Skills.jsx
-│   │   │       ├── Projects.jsx
-│   │   │       └── Contact.jsx
-│   │   ├── App.jsx
-│   │   └── main.jsx
-│   └── vite.config.js
-│
-└── server/                 # Express backend
-├── models/
-│   └── Project.js
-├── routes/
-│   ├── projects.js
-│   └── contact.js
-└── index.js
----
-
 ## ⚙️ Setup & Run Locally
 
 ### Prerequisites
