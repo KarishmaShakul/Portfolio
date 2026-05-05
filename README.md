@@ -107,5 +107,3 @@ Building this portfolio taught me:
 
 *Built with ❤️ while learning MERN stack in public — 2026*
 ---
-
-## 📁 Project Structure
